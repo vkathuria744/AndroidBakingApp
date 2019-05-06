@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="@color/listRow">
+
+    <TextView
+        android:id="@+id/ingredient_widget_1vrow_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000"
+        android:textSize="17sp"
+        android:text="Ingredient"
+        android:fontFamily="sans-serif-smallcaps"/>
+
+</RelativeLayout>

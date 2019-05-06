@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidBakingApp</string>
+    <string name="ingredientsTitle"><u>Ingredients</u></string>
+    <string name="no_internet_msg_long">No internet connection, make sure net is working</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_to_widget">Add to Widget</string>
+</resources>
